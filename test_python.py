@@ -1,3 +1,3 @@
 #display output
-for x in range(2,20,2)
+for x in range(2,20,2):
   print(x)
